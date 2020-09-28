@@ -1,0 +1,533 @@
+
+ID                              1
+NOMBRE                          - Sin Departañento -
+
+ID                              2
+NOMBRE                          Productos Comunes
+
+ID                              4
+NOMBRE                          Vinos Y Licores
+
+ID                              5
+NOMBRE                          Bebidas
+
+ID                              6
+NOMBRE                          Cerveza
+
+ID                              7
+NOMBRE                          Lacteos
+
+ID                              8
+NOMBRE                          Pan Galleta Sabrita
+
+ID                              9
+NOMBRE                          Perfumeria
+
+ID                              10
+NOMBRE                          Desechables
+
+ID                              11
+NOMBRE                          Abarrotes
+
+ID                              12
+NOMBRE                          jabones
+
+ID                              13
+NOMBRE                          7622210124197
+
+ID                              14
+NOMBRE                          Dulces
+
+ID                              15
+NOMBRE                          jugos
+
+ID                              16
+NOMBRE                          aguas neslte
+
+ID                              17
+NOMBRE                          aguas bonafon
+
+ID                              18
+NOMBRE                          sopas
+
+ID                              19
+NOMBRE                          cereales
+
+ID                              20
+NOMBRE                          REFRESCOS
+
+ID                              21
+NOMBRE                          cigarro
+
+ID                              22
+NOMBRE                          botanas
+
+ID                              23
+NOMBRE                          igienicos
+
+ID                              24
+NOMBRE                          carnes frias
+
+ID                              25
+NOMBRE                          MI POLLOI
+
+ID                              26
+NOMBRE                          MI POLLO
+
+ID                              27
+NOMBRE                          fud
+
+ID                              28
+NOMBRE                          BRITISH
+
+ID                              29
+NOMBRE                          - Sin Departamento - BRITISH
+
+ID                              30
+NOMBRE                          ALVARADO
+
+ID                              31
+NOMBRE                          - Sin Departamento -BRISH
+
+ID                              32
+NOMBRE                          barcel
+
+ID                              33
+NOMBRE                          sello rojo
+
+ID                              34
+NOMBRE                          sonrics
+
+ID                              35
+NOMBRE                          jumex
+
+ID                              36
+NOMBRE                          nestle (Eliminado 09/12/2014 17:01:05)
+
+ID                              37
+NOMBRE                          marinela
+
+ID                              38
+NOMBRE                          colibri
+
+ID                              39
+NOMBRE                          lala
+
+ID                              40
+NOMBRE                          pepsi
+
+ID                              41
+NOMBRE                          - san marcos
+
+ID                              42
+NOMBRE                          zeta
+
+ID                              43
+NOMBRE                          danone
+
+ID                              44
+NOMBRE                          ricolino
+
+ID                              45
+NOMBRE                          sabritas
+
+ID                              46
+NOMBRE                          costena
+
+ID                              47
+NOMBRE                          tia rosa
+
+ID                              48
+NOMBRE                          la costeña
+
+ID                              49
+NOMBRE                          promotora  vallarta
+
+ID                              50
+NOMBRE                          malboro
+
+ID                              51
+NOMBRE                          GAMESA
+
+ID                              52
+NOMBRE                          kelloggs
+
+ID                              53
+NOMBRE                          - lala
+
+ID                              54
+NOMBRE                          - vic  encendedores
+
+ID                              55
+NOMBRE                          power rade
+
+ID                              56
+NOMBRE                          gatorade
+
+ID                              57
+NOMBRE                          vaquita
+
+ID                              58
+NOMBRE                          promotora vallarta
+
+ID                              59
+NOMBRE                          COCA
+
+ID                              60
+NOMBRE                          peñafiel
+
+ID                              61
+NOMBRE                          agua ciel
+
+ID                              62
+NOMBRE                          aguas ciel
+
+ID                              63
+NOMBRE                          - binbo dulce
+
+ID                              64
+NOMBRE                          coca cola
+
+ID                              65
+NOMBRE                          dermasun
+
+ID                              66
+NOMBRE                          ornelas
+
+ID                              67
+NOMBRE                          aguaepura
+
+ID                              68
+NOMBRE                          lolys
+
+ID                              69
+NOMBRE                          bonafont
+
+ID                              70
+NOMBRE                          hawaiian
+
+ID                              71
+NOMBRE                          granero rojo
+
+ID                              72
+NOMBRE                          choriso corona
+
+ID                              73
+NOMBRE                          recargas
+
+ID                              74
+NOMBRE                          tehuacan
+
+ID                              75
+NOMBRE                          pedigree
+
+ID                              76
+NOMBRE                          le pack
+
+ID                              77
+NOMBRE                          la ralla
+
+ID                              78
+NOMBRE                          bimbo
+
+ID                              79
+NOMBRE                          rastrillos
+
+ID                              80
+NOMBRE                          papeleria
+
+ID                              81
+NOMBRE                          chiclets
+
+ID                              82
+NOMBRE                          frijol vallarta
+
+ID                              83
+NOMBRE                          plasticos
+
+ID                              84
+NOMBRE                          la raya
+
+ID                              85
+NOMBRE                          medicina
+
+ID                              86
+NOMBRE                          hawallan
+
+ID                              87
+NOMBRE                          awallan
+
+ID                              88
+NOMBRE                          san marcos
+
+ID                              89
+NOMBRE                          corona
+
+ID                              90
+NOMBRE                          banana boat
+
+ID                              91
+NOMBRE                          cdn
+
+ID                              92
+NOMBRE                          ades
+
+ID                              93
+NOMBRE                          - jugos (Eliminado 09/12/2014 17:01:16)
+
+ID                              94
+NOMBRE                          squirt
+
+ID                              95
+NOMBRE                          zuko
+
+ID                              96
+NOMBRE                          aga
+
+ID                              97
+NOMBRE                          BOING
+
+ID                              98
+NOMBRE                          don
+
+ID                              99
+NOMBRE                          don salvatore
+
+ID                              100
+NOMBRE                          CRISTAL
+
+ID                              101
+NOMBRE                          Wal-Mart
+
+ID                              102
+NOMBRE                          el sazonador
+
+ID                              103
+NOMBRE                          f guadalajara
+
+ID                              104
+NOMBRE                          lety
+
+ID                              105
+NOMBRE                          sidral aga
+
+ID                              106
+NOMBRE                          Nestle
+
+ID                              107
+NOMBRE                          Licuados
+
+ID                              108
+NOMBRE                          SAMS
+
+ID                              109
+NOMBRE                          tostadas de maiz blancas
+
+ID                              110
+NOMBRE                          avon
+
+ID                              111
+NOMBRE                          Camila (Eliminado 12/02/2018 09:01:11)
+
+ID                              112
+NOMBRE                          julitas
+
+ID                              113
+NOMBRE                          el panque
+
+ID                              114
+NOMBRE                          Litibu
+
+ID                              115
+NOMBRE                          don roberto
+
+ID                              116
+NOMBRE                          la vaq
+
+ID                              117
+NOMBRE                          tostadas san jose
+
+ID                              118
+NOMBRE                          3 hermanos
+
+ID                              119
+NOMBRE                          19 hermanos
+
+ID                              120
+NOMBRE                          ositos
+
+ID                              121
+NOMBRE                          yakult
+
+ID                              122
+NOMBRE                          verduras
+
+ID                              123
+NOMBRE                          tortillas
+
+ID                              124
+NOMBRE                          MELAOS
+
+ID                              125
+NOMBRE                          bolillo
+
+ID                              126
+NOMBRE                          hieleras
+
+ID                              127
+NOMBRE                          tang
+
+ID                              128
+NOMBRE                          santorini
+
+ID                              129
+NOMBRE                          ferreteria
+
+ID                              130
+NOMBRE                          las aguilas
+
+ID                              131
+NOMBRE                          norteñas
+
+ID                              132
+NOMBRE                          micheladas
+
+ID                              133
+NOMBRE                          PEÑafiel
+
+ID                              134
+NOMBRE                          carbon
+
+ID                              135
+NOMBRE                          panq
+
+ID                              136
+NOMBRE                          Holanda
+
+ID                              137
+NOMBRE                          - guadalajara
+
+ID                              138
+NOMBRE                          squert
+
+ID                              139
+NOMBRE                          burritos
+
+ID                              140
+NOMBRE                          la arenita
+
+ID                              141
+NOMBRE                          -avon
+
+ID                              142
+NOMBRE                          promociones
+
+ID                              143
+NOMBRE                          VETEEL
+
+ID                              144
+NOMBRE                          SAGUAYO
+
+ID                              145
+NOMBRE                          sahuayo
+
+ID                              146
+NOMBRE                          veca
+
+ID                              147
+NOMBRE                          bucerias
+
+ID                              148
+NOMBRE                          GUADALAJARA
+
+ID                              149
+NOMBRE                          fibras
+
+ID                              150
+NOMBRE                          alcione
+
+ID                              151
+NOMBRE                          ccoranay
+
+ID                              152
+NOMBRE                          f similares
+
+ID                              153
+NOMBRE                          cafeteria
+
+ID                              154
+NOMBRE                          mega
+
+ID                              155
+NOMBRE                          mexico lindo
+
+ID                              156
+NOMBRE                          fruteria
+
+ID                              157
+NOMBRE                          f venavides
+
+ID                              158
+NOMBRE                          max
+
+ID                              159
+NOMBRE                          BODEGA AURRERA
+
+ID                              160
+NOMBRE                          la colmena
+
+ID                              161
+NOMBRE                          la integral
+
+ID                              162
+NOMBRE                          santa sirenita
+
+ID                              163
+NOMBRE                          marlboro
+
+ID                              164
+NOMBRE                          guadalajara bloq
+
+ID                              165
+NOMBRE                          vinos guadalajara
+
+ID                              166
+NOMBRE                          mission
+
+ID                              167
+NOMBRE                          soriana
+
+ID                              168
+NOMBRE                          aurera
+
+ID                              169
+NOMBRE                          coyul
+
+ID                              170
+NOMBRE                          CIR
+
+ID                              171
+NOMBRE                          Mercado Libre
+
+ID                              172
+NOMBRE                          z carne
+
+ID                              173
+NOMBRE                          COMER
+
+ID                              174
+NOMBRE                          LA COMER
+
+ID                              175
+NOMBRE                          miel
+
+ID                              176
+NOMBRE                          pan
+
+ID                              177
+NOMBRE                          mondelez
+
+ID                              178
+NOMBRE                          Recargas Electrónicas
+
+
